@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA500</color>
+    <color name="colorPrimaryDark">#FFA500</color>
+    <color name="colorAccent">#FFA500</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_white_01">#f0f0f0</color>
+    <color name="orange">#FFA500</color> <!--橙色 -->
+    <color name="gray_black">#33342f</color> <!--深灰色-->
+    <color name="gray">#cccccc</color>
+    <color name="window_background">#EDEDED</color>
+</resources>
